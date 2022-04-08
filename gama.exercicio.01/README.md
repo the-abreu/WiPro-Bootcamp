@@ -1,0 +1,1 @@
+Olá, me chamo Renan Abreu! Este exercício foi feito com a linguagem Java durante o Bootcamp da WiPro, intuito do exercício era de desenvolver uma eleição com 4 candidatdos, imprimir em tela a quantidade de votos, e declarar o vencedor. 
